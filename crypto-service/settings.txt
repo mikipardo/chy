@@ -5,4 +5,4 @@ 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
 you must add on the pom.xml like a other file in mvn repository 
 
 -- This situation helps you to change one class of the first project 
-and them the second project only has to do its update maven pom.xml
+and them the second project only has to do its update maven pom.xml s
