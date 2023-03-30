@@ -1,5 +1,5 @@
 TOKEN
-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
+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
 
 -- if you need to add a new dependeciy from the other project (.jar,.class) 
 you must add on the pom.xml like a other file in mvn repository 
